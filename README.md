@@ -15,5 +15,7 @@ appreciate inputs, corrections, and suggestions for improvement.
 
 Feel free to reach out for collaboration, giving suggestions, or any improvement advice.
 
-Email: mauryajhingon0705@gmail.com \n
+Email: mauryajhingon0705@gmail.com
+
+
 GitHub: github.com/Maurya-sys
